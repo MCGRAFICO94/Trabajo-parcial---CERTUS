@@ -1,0 +1,11 @@
+h1{
+    background-color: rgb(134, 134, 153);
+    color: aliceblue;
+    padding: 10px 10px;
+    border-radius: 5px;
+}
+
+label{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
